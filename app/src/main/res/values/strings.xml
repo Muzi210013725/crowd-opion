@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrowdOpt</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_navigation">Navigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main__dash">Main_Dash</string>
+    <string name="title_activity_menu_dash">MenuDash</string>
+</resources>
